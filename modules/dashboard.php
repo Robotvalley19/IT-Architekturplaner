@@ -521,7 +521,7 @@ function exportPdf(){
 <body>
 <div class="layout">
 <aside class="sidebar">
-    <img class="brand-logo" src="logo.png" alt="Marth Innovate Logo">
+    <img class="brand-logo" src="logo.png">
     <h1 class="brand">IT Architektur Engine</h1>
     <p>Industrie-IT planen: Internet, Firewall, Switches, VLANs, Server, Storage, Endgeraete, OT, Backup und Kosten.</p>
     <p>Trage zuerst nur grobe Zahlen ein. Das Tool rechnet daraus eine Startarchitektur und erklaert die wichtigsten Begriffe, damit die Planung nachvollziehbar bleibt.</p>
