@@ -1,4 +1,5 @@
 # IT-Architekturplaner
+<<<<<<< HEAD
 
 Der IT-Architekturplaner ist ein lokales PHP-Projekt zur Planung und zum besseren Verstaendnis von IT-Infrastrukturen in kleinen und mittleren Unternehmen, besonders mit Blick auf Produktionsumgebungen, OT-Netze, Server, VLANs, Backup, Monitoring und Betrieb.
 
@@ -147,3 +148,5 @@ Danach kann das Repository mit einem eigenen GitHub-Projekt verbunden werden.
 
 Dieses Projekt steht unter der MIT-Lizenz. Copyright 2026 Robotvalley19. Details stehen in der Datei `LICENSE`. Die Nutzung erfolgt auf eigene Gefahr und ohne Anspruch auf Schadenersatz bei Fehlern in der Software.
 # IT-Architekturplaner
+=======
+>>>>>>> 6dc5c55747b26d89da23095806e6383200f9484d
