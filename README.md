@@ -146,3 +146,4 @@ Danach kann das Repository mit einem eigenen GitHub-Projekt verbunden werden.
 ## Lizenz
 
 Dieses Projekt steht unter der MIT-Lizenz. Copyright 2026 Robotvalley19. Details stehen in der Datei `LICENSE`. Die Nutzung erfolgt auf eigene Gefahr und ohne Anspruch auf Schadenersatz bei Fehlern in der Software.
+# IT-Architekturplaner
