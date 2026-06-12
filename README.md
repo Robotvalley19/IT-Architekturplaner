@@ -1,5 +1,4 @@
 # IT-Architekturplaner
-<<<<<<< HEAD
 
 Der IT-Architekturplaner ist ein lokales PHP-Projekt zur Planung und zum besseren Verstaendnis von IT-Infrastrukturen in kleinen und mittleren Unternehmen, besonders mit Blick auf Produktionsumgebungen, OT-Netze, Server, VLANs, Backup, Monitoring und Betrieb.
 
